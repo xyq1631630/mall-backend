@@ -1,0 +1,18 @@
+HELP.md
+mvnw
+mvnw.cmd
+
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+
+# Mac #
+.DS_Store
